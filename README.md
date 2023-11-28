@@ -10,7 +10,7 @@ What it provides:
 It also inherits the upstream features like generation of images and conversation capabilities for the assistant (i.e., the "Assist" feature) of Home Assistant.
 
 
-To learn more about this project, please check out [my blog](https://www.sergiofreire.com).
+To learn more about this project, please check out [my blog post](https://www.sergiofreire.com/post/home-automation-with-ai-vision).
 # License
 
 [Apache 2.0](LICENSE)
